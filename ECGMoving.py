@@ -1,10 +1,9 @@
 import matplotlib
-import matplotlib
 
 matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
-import serial,time
+# import serial,time
 # import seaborn as sbn
 
 
